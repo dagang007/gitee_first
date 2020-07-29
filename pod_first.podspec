@@ -5,7 +5,9 @@ Pod::Spec.new do |spec|
   spec.summary      = "summary of pod_first."
 
 
-  spec.description  = "description  of pod_first."
+  spec.description  = <<-DESC 
+                          pod_first just try to build.....
+                   DESC
 
 
   spec.homepage     = "https://github.com/dagang007/pod_first"
